@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1269px) {
+  .container {
+    width: 100%; }
+  .header-content {
+    width: 100%; } }
+
+@media only screen and (max-width: 768px) {
+  .navBurger {
+    display: block; } }
+
+@media only screen and (max-width: 768px) {
+  .header-left {
+    display: none; } }
+
+@media only screen and (max-width: 768px) {
+  .header-right {
+    display: none; } }
